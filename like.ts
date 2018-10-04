@@ -1,3 +1,5 @@
+// I was wrong
+
 export class Like {
 
   constructor(private thumbsUp?: number, private thumbsDown?: number) {}
