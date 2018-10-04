@@ -1,4 +1,4 @@
 import { Like } from "./like";
 
 let like = new Like();
-like.display();
+like.display()
